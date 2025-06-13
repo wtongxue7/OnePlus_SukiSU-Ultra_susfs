@@ -19,10 +19,10 @@ on:
         type: choice
         description: "配置文件"
         required: true
-        default: oneplus_ace3v
+        default: oneplus_ace3v_u
         options:
-          - oneplus_nord_ce4_v
           - oneplus_ace_3v_v
+          - oneplus_ace_3v_u
           - oneplus_nord_4_v
           - oneplus_10_pro_v
           - oneplus_10t_v
